@@ -1,5 +1,16 @@
 # Prerequisites
 *.d
+*.DS_Store
+
+# Virtual enviroments
+.env/
+*.env
+
+# Dependencies
+sfw/demos/
+sfw/merged/
+sfw/modules/
+sfw/split/
 
 # Compiled Object files
 *.slo
